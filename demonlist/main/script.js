@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
         card.innerHTML = `
           <!-- Thumbnail & Rank -->
           <div class="thumbnail-container">
-            ${thumbnail ? `<img src="${thumbnail}" class="demon-thumbnail" alt="${level.name}">` : ''}
+            ${thumbnail ? `<img src="${thumbnail}" class="demon-thumbnail" alt="${level.name}">` : '<img src="./tb/NA.png" class="demon-thumbnail'}
             <div class="rank-badge">#${rank}</div>
           </div>
 
