@@ -39,6 +39,16 @@
     "demontype": "easy-featured"
   },
   {
+    "id": "Upcoming",
+    "name": "Space Circles",
+    "creator": "SUOMI",
+    "id_ingame": "9864147",
+    "video_id": "",
+    "thumbnail": "",
+    "videoavailable": false,
+    "demontype": "easy-featured"
+  },
+  {
     "id": 5,
     "name": "Inferiorem Modum",
     "creator": "ilTechnoDashli",
