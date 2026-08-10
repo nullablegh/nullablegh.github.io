@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
         card.innerHTML = `
           <!-- Thumbnail & Rank -->
           <div class="thumbnail-container">
-            ${thumbnail ? `<img src="${thumbnail}" class="demon-thumbnail" alt="${level.name}">` : ''}
+            ${thumbnail ? `<img src="${thumbnail}" class="demon-thumbnail" alt="${level.name}">` : '<img src="./tb/NA.png" class="demon-thumbnail'}
             <div class="rank-badge">#${rank}</div>
           </div>
 
@@ -62,10 +62,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
             ${isVideoAvailable ? `
               <a href="${videoUrl}" target="_blank" class="btn" style="padding: 6px 14px; margin-top: 6px;">
-                Watch
+                Watch Run
               </a>
             ` : `
-              <span style="font-size: 0.75rem; color: #555; margin-top: 6px;">No Video</span>
+              <span style="font-size: 0.75rem; color: #555; margin-top: 6px;">Video Unavailable</span>
             `}
           </div>
         `;
