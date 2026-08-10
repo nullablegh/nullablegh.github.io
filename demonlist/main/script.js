@@ -62,10 +62,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
             ${isVideoAvailable ? `
               <a href="${videoUrl}" target="_blank" class="btn" style="padding: 6px 14px; margin-top: 6px;">
-                Watch
+                Watch Run
               </a>
             ` : `
-              <span style="font-size: 0.75rem; color: #555; margin-top: 6px;">No Video</span>
+              <span style="font-size: 0.75rem; color: #555; margin-top: 6px;">Video Unavailable</span>
             `}
           </div>
         `;
