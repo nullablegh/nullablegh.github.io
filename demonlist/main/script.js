@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const videoUrl = level.video_id || '#';
         const isVideoAvailable = level.videoavailable === true && videoUrl !== '#';
         const demonType = level.demontype || 'hard-demon';
-        const demonIconPath = `./icons/${demonType}.png`;
+        const demonIconPath = `https://gdbrowser.com/assets/difficulties/demon-${demonType}.png`;
 
         const card = document.createElement('div');
         card.className = 'demon-card';
