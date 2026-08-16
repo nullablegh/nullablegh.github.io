@@ -1,6 +1,15 @@
 [
   {
-    "id": 1,
+    "id": "Upcoming",
+    "name": "Demon World",
+    "creator": "superhexagon",
+    "id_ingame": "72540",
+    "video_id": "",
+    "thumbnail": "",
+    "videoavailable": false,
+    "demontype": "medium"
+  },
+  {
     "name": "Cant Let Troll",
     "creator": "Defectum",
     "id_ingame": "1710761",
@@ -10,7 +19,6 @@
     "demontype": "hard"
   },
   {
-    "id": 2,
     "name": "Project J",
     "creator": "Jax",
     "id_ingame": "1908735",
@@ -20,7 +28,6 @@
     "demontype": "medium-featured"
   },
   {
-    "id": 3,
     "name": "Retro Circles",
     "creator": "Nacho21",
     "id_ingame": "14000484",
@@ -30,7 +37,6 @@
     "demontype": "easy-featured"
   },
   {
-    "id": 4,
     "name": "Problematic",
     "creator": "Dhafin",
     "id_ingame": "7116121",
@@ -40,7 +46,6 @@
     "demontype": "easy-featured"
   },
   {
-    "id": 5,
     "name": "Space Circles",
     "creator": "SUOMI",
     "id_ingame": "9864147",
@@ -50,7 +55,6 @@
     "demontype": "easy-featured"
   },
   {
-    "id": 6,
     "name": "Ultra Paracosm",
     "creator": "iIiRulasiIi",
     "id_ingame": "11588490",
@@ -60,7 +64,6 @@
     "demontype": "easy"
   },
   {
-    "id": 7,
     "name": "Inferiorem Modum",
     "creator": "ilTechnoDashli",
     "id_ingame": "115259677",
@@ -70,7 +73,6 @@
     "demontype": "easy-featured"
   },
   {
-    "id": 8,
     "name": "Platinum Adventure",
     "creator": "Jerry4",
     "id_ingame": "5904109",
@@ -80,7 +82,6 @@
     "demontype": "easy-featured"
   },
   {
-    "id": 9,
     "name": "The Nightmare",
     "creator": "Jax",
     "id_ingame": "13519",
