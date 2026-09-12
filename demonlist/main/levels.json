@@ -76,7 +76,7 @@
     "creator": "IIINePtunEIII",
     "id_ingame": "341613",
     "video_id": "https://medal.tv/games/geometry-dash/clips/nvEF4X6x1Rp5rAwGs?invite=cr-MSxSbkQsMzc3NTAyNTMw",
-    "thumbnail": "tb/xv2.jpg",
+    "thumbnail": "tb/xv2.png",
     "videoavailable": true,
     "demontype": "easy-featured"
   },
@@ -87,15 +87,6 @@
     "video_id": "https://youtu.be/l1hfH2o6-rg",
     "thumbnail": "tb/pa.webp",
     "videoavailable": true,
-    "demontype": "easy-featured"
-  },
-  {
-    "name": "The Nightmare",
-    "creator": "Jax",
-    "id_ingame": "13519",
-    "video_id": "",
-    "thumbnail": "",
-    "videoavailable": false,
     "demontype": "easy-featured"
   }
 ]
