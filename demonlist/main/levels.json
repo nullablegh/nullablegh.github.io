@@ -4,7 +4,6 @@
     "creator": "ZenthicAlpha",
     "id_ingame": "277142",
     "video_id": "https://youtu.be/n_wxKnlesP0",
-    "thumbnail": "tb/pn.png",
     "videoavailable": true,
     "demontype": "hard-featured"
   },
@@ -13,25 +12,31 @@
     "creator": "Defectum",
     "id_ingame": "1710761",
     "video_id": "https://youtu.be/9x3WkiJdCoc",
-    "thumbnail": "tb/clt.jpg",
     "videoavailable": true,
     "demontype": "hard"
+  },
+  {
+    "name": "demon cycles",
+    "creator": "joel",
+    "id_ingame": "252772",
+    "video_id": "https://medal.tv/games/geometry-dash/clips/nMxCx29Z75pQRLZMo?invite=cr-MSx0U20sMzc3NTAyNTMw",
+    "videoavailable": true,
+    "demontype": "medium-featured"
   },
   {
     "name": "Project J",
     "creator": "Jax",
     "id_ingame": "1908735",
     "video_id": "https://youtu.be/ubS8yWcGT4I",
-    "thumbnail": "tb/pj.webp",
     "videoavailable": true,
     "demontype": "medium-featured"
   },
+  
   {
     "name": "Retro Circles",
     "creator": "Nacho21",
     "id_ingame": "14000484",
     "video_id": "https://medal.tv/games/geometry-dash/clips/ngVvmqogkZYlIhaka?invite=cr-MSxBYU4sMzc3NTAyNTMw",
-    "thumbnail": "tb/rc.jpg",
     "videoavailable": true,
     "demontype": "easy-featured"
   },
@@ -40,7 +45,6 @@
     "creator": "Dhafin",
     "id_ingame": "7116121",
     "video_id": "https://medal.tv/games/geometry-dash/clips/ngUjFwWEhiH8yZrf8?invite=cr-MSxpNWQsMzc3NTAyNTMw",
-    "thumbnail": "tb/pm.jpg",
     "videoavailable": true,
     "demontype": "easy-featured"
   },
@@ -49,7 +53,6 @@
     "creator": "SUOMI",
     "id_ingame": "9864147",
     "video_id": "https://medal.tv/games/geometry-dash/clips/ni87pumxCKTdALk_d?invite=cr-MSxvazEsMzc3NTAyNTMw",
-    "thumbnail": "tb/sc.png",
     "videoavailable": true,
     "demontype": "easy-featured"
   },
@@ -58,7 +61,6 @@
     "creator": "iIiRulasiIi",
     "id_ingame": "11588490",
     "video_id": "https://medal.tv/games/geometry-dash/clips/nkc7wYuXlC6KhtIFH?invite=cr-MSxTWVEsMzc3NTAyNTMw",
-    "thumbnail": "",
     "videoavailable": true,
     "demontype": "easy"
   },
@@ -67,7 +69,6 @@
     "creator": "iITechnoDashIi",
     "id_ingame": "115259677",
     "video_id": "https://medal.tv/games/geometry-dash/clips/ng5CsYtouK4gF5LIh?invite=cr-MSw1UVgsMzc3NTAyNTMw",
-    "thumbnail": "tb/im.jpg",
     "videoavailable": true,
     "demontype": "easy-featured"
   },
@@ -76,16 +77,6 @@
     "creator": "IIINePtunEIII",
     "id_ingame": "341613",
     "video_id": "https://medal.tv/games/geometry-dash/clips/nvEF4X6x1Rp5rAwGs?invite=cr-MSxSbkQsMzc3NTAyNTMw",
-    "thumbnail": "tb/xv2.png",
-    "videoavailable": true,
-    "demontype": "easy-featured"
-  },
-  {
-    "name": "69 machine",
-    "creator": "sangchan",
-    "id_ingame": "83434",
-    "video_id": "https://medal.tv/games/geometry-dash/clips/nK00qUjYHb69Com-O?invite=cr-MSxTUXYsMzc3NTAyNTMw",
-    "thumbnail": "tb/69m.png",
     "videoavailable": true,
     "demontype": "easy-featured"
   }

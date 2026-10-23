@@ -1,10 +1,17 @@
 [
   {
+    "name": "69 machine",
+    "creator": "sangchan",
+    "id_ingame": "83434",
+    "video_id": "https://medal.tv/games/geometry-dash/clips/nK00qUjYHb69Com-O?invite=cr-MSxTUXYsMzc3NTAyNTMw",
+    "videoavailable": true,
+    "demontype": "easy-featured"
+  },
+  {
     "name": "Platinum Adventure",
     "creator": "Jerry4",
     "id_ingame": "5904109",
     "video_id": "https://youtu.be/l1hfH2o6-rg",
-    "thumbnail": "tb/pa.webp",
     "videoavailable": true,
     "demontype": "easy-featured"
   },
